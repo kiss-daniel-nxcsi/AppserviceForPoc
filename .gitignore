@@ -1,0 +1,14 @@
+﻿.vs
+*/bin
+*/obj
+*.user
+.idea
+
+# NuGet Packages Directory
+[Pp]ackages/
+Nexius.ExamEngine.Web/Properties/PublishProfiles
+Nexius.ExamEngine.Tests/TestResults
+TestResults
+Nexius.ExamEngine.Web/.config/dotnet-tools.json
+profile.arm.json
+*.pubxml
